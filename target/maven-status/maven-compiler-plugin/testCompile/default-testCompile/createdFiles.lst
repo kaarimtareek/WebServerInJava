@@ -1,0 +1,4 @@
+com\mycompany\mavenproject1\httpserver\http\HttpHeaderParserTest.class
+com\mycompany\mavenproject1\httpserver\http\HttpParserTest.class
+com\mycompany\mavenproject1\httpserver\http\HttpVersionTest.class
+com\mycompany\mavenproject1\httpserver\http\WebRootHandlerTest.class
